@@ -9,6 +9,19 @@ body {
   font-family: cursive;
 }
 
+header {
+  background: linear-gradient(145deg, #4CAF50, #2E8B57);
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.header {
+  font-size: 36px;
+  margin: 0;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+}
+
 .form {
   background-color: white;
   padding: 20px;
@@ -34,8 +47,8 @@ body {
 }
 
 .btn {
-  background-color: green;
-  color: white;
+  background: linear-gradient(145deg, #ff5722, #e64a19);
+  color: #fff;
   border: none;
   display: block;
   width: 100%;
