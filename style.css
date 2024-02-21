@@ -7,7 +7,7 @@ body {
   height: 100vh;
   text-align: center;
   background-color: yellow;
-  font-family: cursive;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 header {
@@ -45,7 +45,7 @@ header {
 
 .input::placeholder {
   color: lightgray;
-  font-family: cursive;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .btn {
